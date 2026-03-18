@@ -1,0 +1,5 @@
+{
+  "version": "2.1",
+  "notes": "Detection fix, continuous background monitoring, per-region confirm delay, History refresh, UI scaling improvements.",
+  "download_url": "https://www.ashborneprojects.com/andon/AndonCameraMonitor.exe"
+}
