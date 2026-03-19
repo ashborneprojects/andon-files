@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
-  "notes": "Bug fix release — fixed DiagnosticScreen crash, improved multi-region stability.",
-  "download_url": "https://www.ashborneprojects.com/andon/AndonVideoMonitor.exe"
+  "version": "2.2",
+  "notes": "Updated URLs and version bump.",
+  "download_url": "https://github.com/ashborneprojects/andon-files/releases/download/v2.1-video/Andon.Video.Monitor.exe"
 }
